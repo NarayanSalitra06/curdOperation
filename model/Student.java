@@ -2,10 +2,9 @@ package com.example.curdopratiom.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-import lombok.Data;
+
 
 @Entity
-
 public class Student {
 	
 	@Id
